@@ -1,0 +1,15 @@
+
+K
+java:S1604–"(Make this anonymous inner class a lambda(­Âüéúÿÿÿÿ8™ˆÂ­Æ1
+K
+java:S1604"(Make this anonymous inner class a lambda(È¢ı üÿÿÿÿ8ÇÜÄ­Æ1
+m
+java:S1301M"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ8™ˆÂ­Æ1
+g
+java:S1874K"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ä×ëü8¿ˆÂ­Æ1
+Y
+java:S1874a"7Remove this use of "getFromLocation"; it is deprecated.(¼˜Èøÿÿÿÿ8ÂˆÂ­Æ1
+^	java:S125š"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ8ËˆÂ­Æ1
+^	java:S125¢"<This block of commented-out lines of code should be removed.(Àµ®ãüÿÿÿÿ8‚İÄ­Æ1
+@
+java:S1128"Remove this duplicated import.(Ø½­äşÿÿÿÿ8ËˆÂ­Æ1

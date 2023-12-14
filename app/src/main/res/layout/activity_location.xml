@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LocationActivity">
+
+    <TextView
+        android:id="@+id/textview_location"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zezwól na dostęp do lokalizacji" />
+    <TextView
+        android:id="@+id/textview_address"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/show_location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Pobierz Lokalizację"
+            android:title="@string/show_location" />
+
+        <Button
+            android:id="@+id/show_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Pobierz adres"
+            android:title="@string/show_location" />
+    </LinearLayout>
+
+</LinearLayout>
+
